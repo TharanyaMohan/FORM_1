@@ -1,0 +1,17 @@
+*{
+    background-color:white;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+ #mainid{
+    padding: 15px;
+    background-color: whitesmoke;
+    width: 40%;
+    margin:auto;
+    margin-top: 2%;
+    border-radius: 0px;
+    box-shadow: 1px 1px 5px 1px;
+
+ }
